@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Je travaille actuellement sur mon portfolio GitHub et le perfectionnement de mes compétences.<br><br>🧑‍🤝‍🧑 Je cherche à collaborer sur des projets concrets où je peux apprendre, coder en équipe et contribuer activement.<br><br>🌱 J’apprends actuellement Git avancé, Node.js, SQL, MongoDB, Flutter, et la logique métier derrière les bonnes apps (backend + frontend).<br><br>⚡ Fun fact: Je transforme chaque bug en leçon. Et j’aime plus organiser des projets que faire mes devoirs 😅
+🔭Je travaille actuellement sur mon portfolio GitHub et le perfectionnement de mes compétences.<br><br>🧑‍🤝‍🧑 Je cherche à collaborer sur des projets concrets où je peux apprendre, coder en équipe et contribuer activement.<br><br>🌱 J’apprends actuellement Git avancé, Node.js, SQL, MongoDB, Flutter, et la logique métier derrière les bonnes apps (backend + frontend).<br><br>
 
 
 # 💻 Langages et Outils:
