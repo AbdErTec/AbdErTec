@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭Je travaille actuellement sur mon portfolio GitHub et le perfectionnement de mes compétences.<br><br>🧑‍🤝‍🧑 Je cherche à collaborer sur des projets concrets où je peux apprendre, coder en équipe et contribuer activement.<br><br>🌱 J’apprends actuellement Git avancé, Node.js, SQL, MongoDB, Flutter, et la logique métier derrière les bonnes apps (backend + frontend).<br><br>
+Computer Science student focused on building real-world systems.
+
+I work on full-stack applications (Node.js, SQL, MongoDB) and care about clean architecture, scalable backend logic, and structured code.
+
+Currently building projects that combine backend systems, APIs, and practical business logic.
+
+Open to collaborating on serious projects.
 
 
 # 💻 Langages et Outils:
