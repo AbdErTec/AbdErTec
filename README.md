@@ -1,6 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=48&pause=2&color=white&vCenter=true&width=1200&repeat=false&lines=Hi+There+!+I'm+TcH4.)](https://aptifolio.com)
+<div align="center"> 
+   
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=36&pause=2&color=22D3EE&vCenter=true&width=500&repeat=false&lines=Hi+There+!+I'm+TcH4.)](https://aptifolio.com) 
+<hr>
 
-Software engineering student building scalable, business-oriented web applications.<br><br>I focus on turning ideas into structured full-stack products — from database design and backend logic to clean frontend interfaces.<br><br>Currently building projects that combine backend systems, APIs, and practical business logic.<br>
+</div>
+
+
+Software engineering student building scalable, business-oriented web applications.<br><br>I focus on turning ideas into structured full-stack products — from database design and backend logic to clean frontend interfaces.<br><br>Currently building projects that combine backend systems, APIs, and practical business logic.<br><br>
 
 
 
