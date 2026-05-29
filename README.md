@@ -12,7 +12,7 @@ Software engineering student building scalable, business-oriented web applicatio
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nextjs,react,mongodb,mysql,redis,docker,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring,fastapi,nextjs,react,mongodb,mysql,redis,docker,postman,notion,git" />
 </p>
 
 <div align="center"> 
