@@ -1,6 +1,6 @@
 <div align="center"> 
    
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=27&pause=2&color=58A6FF&vCenter=true&width700&repeat=false&lines=Hi+There!+I'm+Abderrahmane.)](https://aptifolio.com) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=24&pause=2&color=58A6FF&vCenter=true&width700&repeat=false&lines=Hi+There!+I'm+Abderrahmane.)](https://aptifolio.com) 
 <hr>
 
 </div>
